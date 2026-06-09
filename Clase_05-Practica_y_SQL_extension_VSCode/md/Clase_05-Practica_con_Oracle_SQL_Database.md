@@ -524,16 +524,13 @@ En una misma transacción puedes ejecutar varias operaciones antes del `COMMIT`
 
 # Instalación de la extensión  **Oracle SQL Developer para VSCode (En la máquina virtual)**
 
-1. Instalar VSCode:
-    
-    [](https://code.visualstudio.com/download)
-    
+1. [Instalar VSCode](https://code.visualstudio.com/download):
 2. Pulsa en Windows:
     
     ![image.png](image.png)
     
 
-1. Pulsa sobre el archivo que se ha descargado con el  botón derecho del mouse y pulsa en 
+1. Pulsa sobre el archivo que se ha descargado con el  botón derecho del mouse y pulsa en Ejecutar como administrador:
     
     ![image.png](image%201.png)
     
