@@ -525,47 +525,48 @@ En una misma transacción puedes ejecutar varias operaciones antes del `COMMIT`
 # Instalación de la extensión  **Oracle SQL Developer para VSCode (En la máquina virtual)**
 
 1. Instalar VSCode:
-
-[](https://code.visualstudio.com/download)
-
-1. Pulsa en Windows:
+    
+    [](https://code.visualstudio.com/download)
+    
+2. Pulsa en Windows:
     
     ![image.png](image.png)
     
-2. Pulsa sobre el archivo que se ha descargado con el  botón derecho del mouse y pulsa en 
+
+1. Pulsa sobre el archivo que se ha descargado con el  botón derecho del mouse y pulsa en 
     
     ![image.png](image%201.png)
     
-3. Sigue las instrucciones.
-4. Una vez instalado VSCode, ábrelo y pulsa sobre el botón de extensiones:
+2. Sigue las instrucciones.
+3. Una vez instalado VSCode, ábrelo y pulsa sobre el botón de extensiones:
     
     ![image.png](image%202.png)
     
-5. Escribe: Oracle SQL Developer y selecciona el primero:
+4. Escribe: Oracle SQL Developer y selecciona el primero:
     
     ![image.png](image%203.png)
     
-6. Pulsa en Install:
+5. Pulsa en Install:
     
     ![image.png](image%204.png)
     
-7. Pulsar en Trust Publisher & Install
+6. Pulsar en Trust Publisher & Install
     
     ![image.png](image%205.png)
     
-8. Espera a que se instale. Pulsa en Accept
+7. Espera a que se instale. Pulsa en Accept
     
     ![image.png](image%206.png)
     
-9. Ve al icono lateral de **SQL Developer**. Es el icono de base de datos que aparece en la barra izquierda.
+8. Ve al icono lateral de **SQL Developer**. Es el icono de base de datos que aparece en la barra izquierda.
     
     ![image.png](image%207.png)
     
-10. En el panel **CONNECTIONS**, pulsa el botón: `Create Connection` :
+9. En el panel **CONNECTIONS**, pulsa el botón: `Create Connection` :
     
     ![image.png](image%208.png)
     
-11. Rellena los datos de conexión así:
+10. Rellena los datos de conexión así:
     
     ```sql
     Connection Name: Practicas
@@ -581,19 +582,19 @@ En una misma transacción puedes ejecutar varias operaciones antes del `COMMIT`
     
     ![image.png](image%209.png)
     
-12. Pulsa en Test. Debe aparecer esto:
+11. Pulsa en Test. Debe aparecer esto:
     
     ![image.png](image%2010.png)
     
-13. Pulsar en Save:
+12. Pulsar en Save:
     
     ![image.png](image%2011.png)
     
-14. Después abre una hoja SQL :
+13. Después abre una hoja SQL :
     
     ![image.png](image%2012.png)
     
-15. Escribe:
+14. Escribe:
     
     ```sql
     SELECT USER
@@ -602,10 +603,10 @@ En una misma transacción puedes ejecutar varias operaciones antes del `COMMIT`
     
     ![image.png](image%2013.png)
     
-16. Ejecuta escribiendo presionado CTRL + ENTER o en el icono ▶️ de color verde:
+15. Ejecuta escribiendo presionado CTRL + ENTER o en el icono ▶️ de color verde:
     
     ![image.png](image%2014.png)
     
-17. Veras el resultado de la salida en la parte inferior:
+16. Veras el resultado de la salida en la parte inferior:
     
     ![image.png](image%2015.png)
