@@ -22,4 +22,8 @@ https://www.youtube.com/watch?v=izqQx3I-ePw&list=PL2Z95CSZ1N4HM7gzW8gK1Jt3lGWQO0
 - Curso de Oracle PLSQL en español desde cero
 https://www.youtube.com/watch?v=l6wOghW_gNI&list=PL2Z95CSZ1N4EO3wqFmTBNZXCovLpxkEqB&index=1  
 
+- Oracle Base de Datos 21c desde cero para principiantes
+https://www.youtube.com/watch?v=poJWCl4ZPaQ&list=PL2Z95CSZ1N4H1cH3NZHfEUyKuxu7npxxz  
+
+
 
